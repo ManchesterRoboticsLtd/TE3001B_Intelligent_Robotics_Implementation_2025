@@ -1,0 +1,7 @@
+# This is aservice to set a boolean value.
+# This can be used for starting a process 
+
+bool enable # e.g. for hardware enabling / disabling
+---
+bool success   # indicate successful run of triggered service
+string message # informational, e.g. for error messages

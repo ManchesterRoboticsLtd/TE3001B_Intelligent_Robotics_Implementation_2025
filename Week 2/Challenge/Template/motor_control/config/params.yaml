@@ -1,0 +1,10 @@
+/group1/motor_sys_1:
+  ros__parameters:
+    sys_gain_K: 4.0
+    sys_tau_T: 0.9
+
+
+/group2/motor_sys_2:
+  ros__parameters:
+    sys_gain_K: 1.75
+    sys_tau_T: 0.5 
